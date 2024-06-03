@@ -1,0 +1,66 @@
+.header {
+  width: 150px;
+}
+
+.nameHeader {
+  padding: 2%;
+  margin: 5%;
+  text-align: center;
+  font-family: cursive, sans-serif;
+  width: 80%;
+  font-size: 15px;
+  background-color: rgb(221, 221, 221);
+  border-radius: 5px;
+}
+
+.projectHeader {
+  border-bottom: 1px solid #ccc;
+}
+
+.navHeader,
+.contactHeader,
+.projectHeader {
+  padding-left: 2%;
+}
+
+.navHeader {
+  border-bottom: 1px solid #ccc;
+}
+
+.contactHeaderTitle,
+.projectHeaderTitle {
+  margin-top: 10%;
+  padding-left: 5px;
+  font-size: 10px;
+  color: gray;
+}
+
+.contactHeader,
+.projectHeader {
+  font-size: 10px;
+}
+
+
+.contactHeader,
+.projectHeader,
+ul {
+  list-style: none;
+  padding-left: 5%;
+}
+
+.navHeader li {
+  padding-top: 5%;
+}
+
+.contactHeader li,
+.projectHeader li
+{
+  padding-top: 3%;
+}
+
+.contactHeader ul,
+.projectHeader ul,
+.navHeader ul {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
